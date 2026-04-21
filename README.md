@@ -8,7 +8,7 @@ The codes implement classical analytical models for optimizing Litz wire paramet
 
 ## Features
 
-1. **Optimum Strand Count Calculation (`calculate_nopt_sullivan.m`)**
+1. **Optimum Strand Count Calculation (`calculate_nopt_sullivan_paper_parameters.m`)**
    * Implements the closed-form physical model proposed by C.R. Sullivan.
    * Calculates the optimal number of Litz wire strands (`n_opt`) and the theoretically optimal strand diameter under specific window geometries and switching frequencies.
    * **Reference:** C. R. Sullivan, "Optimal choice for number of strands in a litz-wire transformer winding," *IEEE Transactions on Power Electronics*, 1999.
